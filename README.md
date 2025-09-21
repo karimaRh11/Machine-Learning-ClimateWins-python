@@ -5,6 +5,7 @@ Using machine learning and historical data, it aims to build models that help fo
 The following resources were consulted for this project: 
 The European Climate Assessment and  Dataset website and the processed weather prediction dataset.
 https://www.ecad.eu/
+
 https://s3.amazonaws.com/coach-courses-us/public/courses/da-spec-ml/Scripts/A1/Dataset-weather-prediction-dataset-processed.csv
 
 # Key Questions
