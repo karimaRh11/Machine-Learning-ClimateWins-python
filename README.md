@@ -2,6 +2,11 @@
 ClimateWins explores tools to predict weather in mainland Europe,focusing on rising extreme events over the past 10–20 years. 
 Using machine learning and historical data, it aims to build models that help forecast and plan for future conditions.
 
+The following resources were consulted for this project: 
+The European Climate Assessment and  Dataset website and the processed weather prediction dataset.
+https://www.ecad.eu/
+https://s3.amazonaws.com/coach-courses-us/public/courses/da-spec-ml/Scripts/A1/Dataset-weather-prediction-dataset-processed.csv
+
 # Key Questions
 How is machine learning used? Is it applicable to weather data?
 Are some models more effective and accurate than others?
